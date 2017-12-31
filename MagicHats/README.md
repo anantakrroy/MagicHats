@@ -1,4 +1,4 @@
-#Projects in the repo
+# Projects in the repo
 
 * Magic Hats- a simple AR based magic trick app
 
